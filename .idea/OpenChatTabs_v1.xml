@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="OpenTabsState">
+    <option name="openTabs">
+      <list>
+        <OpenTabInfo>
+          <option name="conversationId" value="75fd39a4-6889-4c56-9b78-a62ca74fe84f" />
+          <option name="openTimestamp" value="1782810355552" />
+          <option name="tabTitle" value="DEFAULT" />
+        </OpenTabInfo>
+        <OpenTabInfo>
+          <option name="conversationId" value="b99ab647-cb50-48f5-ab4e-93aee3248cc3" />
+          <option name="openTimestamp" value="1782913309718" />
+          <option name="tabTitle" value="SL - 906" />
+        </OpenTabInfo>
+      </list>
+    </option>
+    <option name="activeTabTitle" value="SL - 906" />
+  </component>
+</project>

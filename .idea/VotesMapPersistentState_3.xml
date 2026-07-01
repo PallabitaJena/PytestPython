@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VotesMapPersistentState">
+    <option name="votesMap">
+      <map>
+        <entry key="4710e03c-4d6a-46ba-8b98-0a7819db0f4c">
+          <value>
+            <VoteCacheDTO>
+              <option name="voteTime" value="2026-07-01T13:08:35.426853900Z" />
+            </VoteCacheDTO>
+          </value>
+        </entry>
+        <entry key="596dfc4e-0f46-41d6-8f73-fe961e6aeb92">
+          <value>
+            <VoteCacheDTO>
+              <option name="voteTime" value="2026-07-01T13:45:10.092787300Z" />
+            </VoteCacheDTO>
+          </value>
+        </entry>
+        <entry key="79d5b7ac-99ef-4499-ae48-47a3d96cc72f">
+          <value>
+            <VoteCacheDTO>
+              <option name="voteTime" value="2026-07-01T13:43:35.110809900Z" />
+            </VoteCacheDTO>
+          </value>
+        </entry>
+        <entry key="8c3787f5-2b4c-4c51-8fc2-1ce209fbb211">
+          <value>
+            <VoteCacheDTO>
+              <option name="voteTime" value="2026-07-01T13:08:05.797327100Z" />
+            </VoteCacheDTO>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

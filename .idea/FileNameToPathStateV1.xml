@@ -1,0 +1,628 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FileNameToPathState">
+    <option name="fileNameToPathMap">
+      <map>
+        <entry key="allure-results/00903a02-f266-4ecb-9729-804f2d20f09e-container.json Lines(1-1)">
+          <value>
+            <list>
+              <option value="PycharmProjects\PytestPython\playwright\allure-results\00903a02-f266-4ecb-9729-804f2d20f09e-container.json" />
+            </list>
+          </value>
+        </entry>
+        <entry key="allure-results/07eabfa0-f920-4cc6-9735-e7e99e8ab054-container.json Lines(1-1)">
+          <value>
+            <list>
+              <option value="PycharmProjects\PytestPython\playwright\allure-results\07eabfa0-f920-4cc6-9735-e7e99e8ab054-container.json" />
+            </list>
+          </value>
+        </entry>
+        <entry key="allure-results/08c54092-2d80-4b14-be2d-47674bd44424-container.json Lines(1-1)">
+          <value>
+            <list>
+              <option value="PycharmProjects\PytestPython\playwright\allure-results\08c54092-2d80-4b14-be2d-47674bd44424-container.json" />
+            </list>
+          </value>
+        </entry>
+        <entry key="allure-results/08f5d9f8-4287-4575-a4fa-395e536af4dc-container.json Lines(1-1)">
+          <value>
+            <list>
+              <option value="PycharmProjects\PytestPython\playwright\allure-results\08f5d9f8-4287-4575-a4fa-395e536af4dc-container.json" />
+            </list>
+          </value>
+        </entry>
+        <entry key="allure-results/091eaa43-f3f4-4a06-a6f4-805a03f03e65-container.json Lines(1-1)">
+          <value>
+            <list>
+              <option value="PycharmProjects\PytestPython\playwright\allure-results\091eaa43-f3f4-4a06-a6f4-805a03f03e65-container.json" />
+            </list>
+          </value>
+        </entry>
+        <entry key="allure-results/0d42f6b0-4de9-48e2-87ca-171961bf2823-result.json Lines(1-1)">
+          <value>
+            <list>
+              <option value="PycharmProjects\PytestPython\playwright\allure-results\0d42f6b0-4de9-48e2-87ca-171961bf2823-result.json" />
+            </list>
+          </value>
+        </entry>
+        <entry key="allure-results/0ec6b8b7-ccd5-4592-b8dd-560c4e03b5b1-container.json Lines(1-1)">
+          <value>
+            <list>
+              <option value="PycharmProjects\PytestPython\playwright\allure-results\0ec6b8b7-ccd5-4592-b8dd-560c4e03b5b1-container.json" />
+            </list>
+          </value>
+        </entry>
+        <entry key="allure-results/144e14bb-9bfe-4a2a-9824-837c035dc05c-container.json Lines(1-1)">
+          <value>
+            <list>
+              <option value="PycharmProjects\PytestPython\playwright\allure-results\144e14bb-9bfe-4a2a-9824-837c035dc05c-container.json" />
+            </list>
+          </value>
+        </entry>
+        <entry key="allure-results/169f9a98-435b-435b-9e0b-4581766339e9-result.json Lines(1-1)">
+          <value>
+            <list>
+              <option value="PycharmProjects\PytestPython\playwright\allure-results\169f9a98-435b-435b-9e0b-4581766339e9-result.json" />
+            </list>
+          </value>
+        </entry>
+        <entry key="allure-results/223e6a39-e472-4c40-8014-98f7264a71a3-container.json Lines(1-1)">
+          <value>
+            <list>
+              <option value="PycharmProjects\PytestPython\playwright\allure-results\223e6a39-e472-4c40-8014-98f7264a71a3-container.json" />
+            </list>
+          </value>
+        </entry>
+        <entry key="allure-results/30eaf80c-cd15-4e75-bd61-95d9bdb633de-container.json Lines(1-1)">
+          <value>
+            <list>
+              <option value="PycharmProjects\PytestPython\playwright\allure-results\30eaf80c-cd15-4e75-bd61-95d9bdb633de-container.json" />
+            </list>
+          </value>
+        </entry>
+        <entry key="allure-results/3372890a-c9e5-4ca1-b5b6-2e2c015cd377-container.json Lines(1-1)">
+          <value>
+            <list>
+              <option value="PycharmProjects\PytestPython\playwright\allure-results\3372890a-c9e5-4ca1-b5b6-2e2c015cd377-container.json" />
+            </list>
+          </value>
+        </entry>
+        <entry key="allure-results/3ba350d2-792d-4309-ac7a-143291d2cbed-container.json Lines(1-1)">
+          <value>
+            <list>
+              <option value="PycharmProjects\PytestPython\playwright\allure-results\3ba350d2-792d-4309-ac7a-143291d2cbed-container.json" />
+            </list>
+          </value>
+        </entry>
+        <entry key="allure-results/3c7963f2-b272-4e09-9077-de35987a28b1-container.json Lines(1-1)">
+          <value>
+            <list>
+              <option value="PycharmProjects\PytestPython\playwright\allure-results\3c7963f2-b272-4e09-9077-de35987a28b1-container.json" />
+            </list>
+          </value>
+        </entry>
+        <entry key="allure-results/3d723013-0ca1-4261-af97-49eb1722530e-result.json Lines(1-1)">
+          <value>
+            <list>
+              <option value="PycharmProjects\PytestPython\playwright\allure-results\3d723013-0ca1-4261-af97-49eb1722530e-result.json" />
+            </list>
+          </value>
+        </entry>
+        <entry key="allure-results/4df77764-985d-4a78-88b1-bf8a65b9be85-result.json Lines(1-1)">
+          <value>
+            <list>
+              <option value="PycharmProjects\PytestPython\playwright\allure-results\4df77764-985d-4a78-88b1-bf8a65b9be85-result.json" />
+            </list>
+          </value>
+        </entry>
+        <entry key="allure-results/50ea397e-fab0-4630-a336-3c09dbea4282-container.json Lines(1-1)">
+          <value>
+            <list>
+              <option value="PycharmProjects\PytestPython\playwright\allure-results\50ea397e-fab0-4630-a336-3c09dbea4282-container.json" />
+            </list>
+          </value>
+        </entry>
+        <entry key="allure-results/51ae387b-6c9e-4cd8-a25a-0976e894e060-container.json Lines(1-1)">
+          <value>
+            <list>
+              <option value="PycharmProjects\PytestPython\playwright\allure-results\51ae387b-6c9e-4cd8-a25a-0976e894e060-container.json" />
+            </list>
+          </value>
+        </entry>
+        <entry key="allure-results/52ddfa41-bf18-4771-85bc-d5c680eb0c22-container.json Lines(1-1)">
+          <value>
+            <list>
+              <option value="PycharmProjects\PytestPython\playwright\allure-results\52ddfa41-bf18-4771-85bc-d5c680eb0c22-container.json" />
+            </list>
+          </value>
+        </entry>
+        <entry key="allure-results/560db49b-06dd-4056-b84f-38a14df7337e-container.json Lines(1-1)">
+          <value>
+            <list>
+              <option value="PycharmProjects\PytestPython\playwright\allure-results\560db49b-06dd-4056-b84f-38a14df7337e-container.json" />
+            </list>
+          </value>
+        </entry>
+        <entry key="allure-results/56b8644d-b2fb-4438-b7dc-ae3985eae279-container.json Lines(1-1)">
+          <value>
+            <list>
+              <option value="PycharmProjects\PytestPython\playwright\allure-results\56b8644d-b2fb-4438-b7dc-ae3985eae279-container.json" />
+            </list>
+          </value>
+        </entry>
+        <entry key="allure-results/5a18f728-2657-4048-b5b7-84e6e7ecb6b4-container.json Lines(1-1)">
+          <value>
+            <list>
+              <option value="PycharmProjects\PytestPython\playwright\allure-results\5a18f728-2657-4048-b5b7-84e6e7ecb6b4-container.json" />
+            </list>
+          </value>
+        </entry>
+        <entry key="allure-results/5c826975-7ebb-497e-b63f-5a90c0dd523c-container.json Lines(1-1)">
+          <value>
+            <list>
+              <option value="PycharmProjects\PytestPython\playwright\allure-results\5c826975-7ebb-497e-b63f-5a90c0dd523c-container.json" />
+            </list>
+          </value>
+        </entry>
+        <entry key="allure-results/61f11fb5-87a3-468b-9c09-e61f5c29b516-container.json Lines(1-1)">
+          <value>
+            <list>
+              <option value="PycharmProjects\PytestPython\playwright\allure-results\61f11fb5-87a3-468b-9c09-e61f5c29b516-container.json" />
+            </list>
+          </value>
+        </entry>
+        <entry key="allure-results/637282f5-3858-4b4a-b099-5dd9bc2d3d95-container.json Lines(1-1)">
+          <value>
+            <list>
+              <option value="PycharmProjects\PytestPython\playwright\allure-results\637282f5-3858-4b4a-b099-5dd9bc2d3d95-container.json" />
+            </list>
+          </value>
+        </entry>
+        <entry key="allure-results/67d64016-1644-4430-afa6-3fdc54d6a6f9-result.json Lines(1-1)">
+          <value>
+            <list>
+              <option value="PycharmProjects\PytestPython\playwright\allure-results\67d64016-1644-4430-afa6-3fdc54d6a6f9-result.json" />
+            </list>
+          </value>
+        </entry>
+        <entry key="allure-results/6b7b1fd8-333d-47ac-90d9-3be3d8baf7e6-container.json Lines(1-1)">
+          <value>
+            <list>
+              <option value="PycharmProjects\PytestPython\playwright\allure-results\6b7b1fd8-333d-47ac-90d9-3be3d8baf7e6-container.json" />
+            </list>
+          </value>
+        </entry>
+        <entry key="allure-results/717800d2-1b96-4631-aed5-94c3b6b86a4c-result.json Lines(1-1)">
+          <value>
+            <list>
+              <option value="PycharmProjects\PytestPython\playwright\allure-results\717800d2-1b96-4631-aed5-94c3b6b86a4c-result.json" />
+            </list>
+          </value>
+        </entry>
+        <entry key="allure-results/71d1d72a-0fad-4825-9f60-7549f140d974-container.json Lines(1-1)">
+          <value>
+            <list>
+              <option value="PycharmProjects\PytestPython\playwright\allure-results\71d1d72a-0fad-4825-9f60-7549f140d974-container.json" />
+            </list>
+          </value>
+        </entry>
+        <entry key="allure-results/788270df-5542-4a4a-b404-65c8bcf9268e-container.json Lines(1-1)">
+          <value>
+            <list>
+              <option value="PycharmProjects\PytestPython\playwright\allure-results\788270df-5542-4a4a-b404-65c8bcf9268e-container.json" />
+            </list>
+          </value>
+        </entry>
+        <entry key="allure-results/7a78dd90-cb91-43c1-82c1-9115f27c252b-container.json Lines(1-1)">
+          <value>
+            <list>
+              <option value="PycharmProjects\PytestPython\playwright\allure-results\7a78dd90-cb91-43c1-82c1-9115f27c252b-container.json" />
+            </list>
+          </value>
+        </entry>
+        <entry key="allure-results/7e525647-2010-4080-a71d-21df21a272a1-container.json Lines(1-1)">
+          <value>
+            <list>
+              <option value="PycharmProjects\PytestPython\playwright\allure-results\7e525647-2010-4080-a71d-21df21a272a1-container.json" />
+            </list>
+          </value>
+        </entry>
+        <entry key="allure-results/7fc3460d-c53e-47d4-8972-80af90007ebb-result.json Lines(1-1)">
+          <value>
+            <list>
+              <option value="PycharmProjects\PytestPython\playwright\allure-results\7fc3460d-c53e-47d4-8972-80af90007ebb-result.json" />
+            </list>
+          </value>
+        </entry>
+        <entry key="allure-results/81f5e9a6-7484-4eb6-b37f-e1ac3827b140-result.json Lines(1-1)">
+          <value>
+            <list>
+              <option value="PycharmProjects\PytestPython\playwright\allure-results\81f5e9a6-7484-4eb6-b37f-e1ac3827b140-result.json" />
+            </list>
+          </value>
+        </entry>
+        <entry key="allure-results/87811d71-a9db-4214-abeb-9f4f35b5b592-result.json Lines(1-1)">
+          <value>
+            <list>
+              <option value="PycharmProjects\PytestPython\playwright\allure-results\87811d71-a9db-4214-abeb-9f4f35b5b592-result.json" />
+            </list>
+          </value>
+        </entry>
+        <entry key="allure-results/8ac80eb9-2579-4b0f-96ee-1de160e3adc4-container.json Lines(1-1)">
+          <value>
+            <list>
+              <option value="PycharmProjects\PytestPython\playwright\allure-results\8ac80eb9-2579-4b0f-96ee-1de160e3adc4-container.json" />
+            </list>
+          </value>
+        </entry>
+        <entry key="allure-results/8d4d4ae6-cb29-4f89-92c3-687548e5a455-container.json Lines(1-1)">
+          <value>
+            <list>
+              <option value="PycharmProjects\PytestPython\playwright\allure-results\8d4d4ae6-cb29-4f89-92c3-687548e5a455-container.json" />
+            </list>
+          </value>
+        </entry>
+        <entry key="allure-results/9c23cd33-cd77-4db4-aff0-978b6ce00c3b-container.json Lines(1-1)">
+          <value>
+            <list>
+              <option value="PycharmProjects\PytestPython\playwright\allure-results\9c23cd33-cd77-4db4-aff0-978b6ce00c3b-container.json" />
+            </list>
+          </value>
+        </entry>
+        <entry key="allure-results/9fc8d42f-dc46-46c8-929d-b58d74d5d9a4-container.json Lines(1-1)">
+          <value>
+            <list>
+              <option value="PycharmProjects\PytestPython\playwright\allure-results\9fc8d42f-dc46-46c8-929d-b58d74d5d9a4-container.json" />
+            </list>
+          </value>
+        </entry>
+        <entry key="allure-results/a25f22f2-46fd-479b-9342-72b83b234859-container.json Lines(1-1)">
+          <value>
+            <list>
+              <option value="PycharmProjects\PytestPython\playwright\allure-results\a25f22f2-46fd-479b-9342-72b83b234859-container.json" />
+            </list>
+          </value>
+        </entry>
+        <entry key="allure-results/a4197186-5a36-4d5f-8df8-83ce3adfba80-container.json Lines(1-1)">
+          <value>
+            <list>
+              <option value="PycharmProjects\PytestPython\playwright\allure-results\a4197186-5a36-4d5f-8df8-83ce3adfba80-container.json" />
+            </list>
+          </value>
+        </entry>
+        <entry key="allure-results/a68c73c1-778e-453d-9061-31ac872232ac-container.json Lines(1-1)">
+          <value>
+            <list>
+              <option value="PycharmProjects\PytestPython\playwright\allure-results\a68c73c1-778e-453d-9061-31ac872232ac-container.json" />
+            </list>
+          </value>
+        </entry>
+        <entry key="allure-results/a796fd79-ed5b-4cb9-ace5-9eb8a785dfdd-result.json Lines(1-1)">
+          <value>
+            <list>
+              <option value="PycharmProjects\PytestPython\playwright\allure-results\a796fd79-ed5b-4cb9-ace5-9eb8a785dfdd-result.json" />
+            </list>
+          </value>
+        </entry>
+        <entry key="allure-results/acf8f6c4-fb99-413b-80e2-5d83440a5526-container.json Lines(1-1)">
+          <value>
+            <list>
+              <option value="PycharmProjects\PytestPython\playwright\allure-results\acf8f6c4-fb99-413b-80e2-5d83440a5526-container.json" />
+            </list>
+          </value>
+        </entry>
+        <entry key="allure-results/ad0e7de6-6893-4d4d-9e49-1c3b3930ebe8-container.json Lines(1-1)">
+          <value>
+            <list>
+              <option value="PycharmProjects\PytestPython\playwright\allure-results\ad0e7de6-6893-4d4d-9e49-1c3b3930ebe8-container.json" />
+            </list>
+          </value>
+        </entry>
+        <entry key="allure-results/ae21ac5f-01cb-48ac-b71f-b8c766bb1937-container.json Lines(1-1)">
+          <value>
+            <list>
+              <option value="PycharmProjects\PytestPython\playwright\allure-results\ae21ac5f-01cb-48ac-b71f-b8c766bb1937-container.json" />
+            </list>
+          </value>
+        </entry>
+        <entry key="allure-results/ba59b05c-7b67-4da9-992c-724cc9964e74-container.json Lines(1-1)">
+          <value>
+            <list>
+              <option value="PycharmProjects\PytestPython\playwright\allure-results\ba59b05c-7b67-4da9-992c-724cc9964e74-container.json" />
+            </list>
+          </value>
+        </entry>
+        <entry key="allure-results/bf0f1d68-43fb-47a6-82c6-d202c1b3dd0b-container.json Lines(1-1)">
+          <value>
+            <list>
+              <option value="PycharmProjects\PytestPython\playwright\allure-results\bf0f1d68-43fb-47a6-82c6-d202c1b3dd0b-container.json" />
+            </list>
+          </value>
+        </entry>
+        <entry key="allure-results/c09d2cff-2fcb-49ca-bc5e-e3df169ea74d-container.json Lines(1-1)">
+          <value>
+            <list>
+              <option value="PycharmProjects\PytestPython\playwright\allure-results\c09d2cff-2fcb-49ca-bc5e-e3df169ea74d-container.json" />
+            </list>
+          </value>
+        </entry>
+        <entry key="allure-results/c3d47682-7f9c-492c-bef3-af6eee78a0cd-container.json Lines(1-1)">
+          <value>
+            <list>
+              <option value="PycharmProjects\PytestPython\playwright\allure-results\c3d47682-7f9c-492c-bef3-af6eee78a0cd-container.json" />
+            </list>
+          </value>
+        </entry>
+        <entry key="allure-results/c4de3df1-8d10-40ec-9f0f-d4dbb8796222-result.json Lines(1-1)">
+          <value>
+            <list>
+              <option value="PycharmProjects\PytestPython\playwright\allure-results\c4de3df1-8d10-40ec-9f0f-d4dbb8796222-result.json" />
+            </list>
+          </value>
+        </entry>
+        <entry key="allure-results/c4ed199f-37b0-4b55-ac16-154c6b97d235-container.json Lines(1-1)">
+          <value>
+            <list>
+              <option value="PycharmProjects\PytestPython\playwright\allure-results\c4ed199f-37b0-4b55-ac16-154c6b97d235-container.json" />
+            </list>
+          </value>
+        </entry>
+        <entry key="allure-results/c4ed832f-e1aa-4f5c-8f12-126b49867ff6-container.json Lines(1-1)">
+          <value>
+            <list>
+              <option value="PycharmProjects\PytestPython\playwright\allure-results\c4ed832f-e1aa-4f5c-8f12-126b49867ff6-container.json" />
+            </list>
+          </value>
+        </entry>
+        <entry key="allure-results/c8ffce91-6e63-4371-8587-1f1fc6052288-container.json Lines(1-1)">
+          <value>
+            <list>
+              <option value="PycharmProjects\PytestPython\playwright\allure-results\c8ffce91-6e63-4371-8587-1f1fc6052288-container.json" />
+            </list>
+          </value>
+        </entry>
+        <entry key="allure-results/c97e74fd-572f-457e-8922-1815938c33b8-container.json Lines(1-1)">
+          <value>
+            <list>
+              <option value="PycharmProjects\PytestPython\playwright\allure-results\c97e74fd-572f-457e-8922-1815938c33b8-container.json" />
+            </list>
+          </value>
+        </entry>
+        <entry key="allure-results/cda890a7-15d6-498d-8cf0-29f166e961c9-container.json Lines(1-1)">
+          <value>
+            <list>
+              <option value="PycharmProjects\PytestPython\playwright\allure-results\cda890a7-15d6-498d-8cf0-29f166e961c9-container.json" />
+            </list>
+          </value>
+        </entry>
+        <entry key="allure-results/ce21516d-8ea6-4dc7-ab6a-9ea3963c58ed-result.json Lines(1-1)">
+          <value>
+            <list>
+              <option value="PycharmProjects\PytestPython\playwright\allure-results\ce21516d-8ea6-4dc7-ab6a-9ea3963c58ed-result.json" />
+            </list>
+          </value>
+        </entry>
+        <entry key="allure-results/ceb1d1a2-744b-4661-a4fc-5d20ea6d3ea5-result.json Lines(1-1)">
+          <value>
+            <list>
+              <option value="PycharmProjects\PytestPython\playwright\allure-results\ceb1d1a2-744b-4661-a4fc-5d20ea6d3ea5-result.json" />
+            </list>
+          </value>
+        </entry>
+        <entry key="allure-results/d37dbce2-9b7f-42f5-8e0f-9d05b499759f-container.json Lines(1-1)">
+          <value>
+            <list>
+              <option value="PycharmProjects\PytestPython\playwright\allure-results\d37dbce2-9b7f-42f5-8e0f-9d05b499759f-container.json" />
+            </list>
+          </value>
+        </entry>
+        <entry key="allure-results/dc70f86a-1ee7-4d87-a1f6-b2b1bb104d93-container.json Lines(1-1)">
+          <value>
+            <list>
+              <option value="PycharmProjects\PytestPython\playwright\allure-results\dc70f86a-1ee7-4d87-a1f6-b2b1bb104d93-container.json" />
+            </list>
+          </value>
+        </entry>
+        <entry key="allure-results/deec10cd-a22f-4164-ac16-288cab9702db-container.json Lines(1-1)">
+          <value>
+            <list>
+              <option value="PycharmProjects\PytestPython\playwright\allure-results\deec10cd-a22f-4164-ac16-288cab9702db-container.json" />
+            </list>
+          </value>
+        </entry>
+        <entry key="allure-results/df6c9b09-fea8-43f8-b594-674ea41d5a79-container.json Lines(1-1)">
+          <value>
+            <list>
+              <option value="PycharmProjects\PytestPython\playwright\allure-results\df6c9b09-fea8-43f8-b594-674ea41d5a79-container.json" />
+            </list>
+          </value>
+        </entry>
+        <entry key="allure-results/e32f8594-5d0b-4ca2-8f08-b2d33a9f67c6-container.json Lines(1-1)">
+          <value>
+            <list>
+              <option value="PycharmProjects\PytestPython\playwright\allure-results\e32f8594-5d0b-4ca2-8f08-b2d33a9f67c6-container.json" />
+            </list>
+          </value>
+        </entry>
+        <entry key="allure-results/e73afcb8-8916-4556-9cb2-134e978c0a33-container.json Lines(1-1)">
+          <value>
+            <list>
+              <option value="PycharmProjects\PytestPython\playwright\allure-results\e73afcb8-8916-4556-9cb2-134e978c0a33-container.json" />
+            </list>
+          </value>
+        </entry>
+        <entry key="allure-results/ea5e2db3-9fdf-42f1-97fb-2da71b22196e-container.json Lines(1-1)">
+          <value>
+            <list>
+              <option value="PycharmProjects\PytestPython\playwright\allure-results\ea5e2db3-9fdf-42f1-97fb-2da71b22196e-container.json" />
+            </list>
+          </value>
+        </entry>
+        <entry key="allure-results/ec88034a-d2b7-4d4a-8680-a1db956d82ff-container.json Lines(1-1)">
+          <value>
+            <list>
+              <option value="PycharmProjects\PytestPython\playwright\allure-results\ec88034a-d2b7-4d4a-8680-a1db956d82ff-container.json" />
+            </list>
+          </value>
+        </entry>
+        <entry key="allure-results/f07336d2-b76d-4429-a540-6ca99cbe839e-result.json Lines(1-1)">
+          <value>
+            <list>
+              <option value="PycharmProjects\PytestPython\playwright\allure-results\f07336d2-b76d-4429-a540-6ca99cbe839e-result.json" />
+            </list>
+          </value>
+        </entry>
+        <entry key="allure-results/f20918b7-1a03-4e32-af8a-afeebe3e6acc-container.json Lines(1-1)">
+          <value>
+            <list>
+              <option value="PycharmProjects\PytestPython\playwright\allure-results\f20918b7-1a03-4e32-af8a-afeebe3e6acc-container.json" />
+            </list>
+          </value>
+        </entry>
+        <entry key="allure-results/f686c93c-3f6f-4038-a83d-52a59b0f5841-container.json Lines(1-1)">
+          <value>
+            <list>
+              <option value="PycharmProjects\PytestPython\playwright\allure-results\f686c93c-3f6f-4038-a83d-52a59b0f5841-container.json" />
+            </list>
+          </value>
+        </entry>
+        <entry key="allure-results/f9b5bb66-4c71-4ac5-9608-c44be1bf31a7-container.json Lines(1-1)">
+          <value>
+            <list>
+              <option value="PycharmProjects\PytestPython\playwright\allure-results\f9b5bb66-4c71-4ac5-9608-c44be1bf31a7-container.json" />
+            </list>
+          </value>
+        </entry>
+        <entry key="assets/style.css Lines(1-319)">
+          <value>
+            <list>
+              <option value="PycharmProjects\PytestPython\playwright\assets\style.css" />
+            </list>
+          </value>
+        </entry>
+        <entry key="data/credentials.json Lines(1-15)">
+          <value>
+            <list>
+              <option value="PycharmProjects\PytestPython\playwright\data\credentials.json" />
+            </list>
+          </value>
+        </entry>
+        <entry key="pageObjects/dashboard.py Lines(1-12)">
+          <value>
+            <list>
+              <option value="PycharmProjects\PytestPython\playwright\pageObjects\dashboard.py" />
+            </list>
+          </value>
+        </entry>
+        <entry key="pageObjects/login.py Lines(1-18)">
+          <value>
+            <list>
+              <option value="PycharmProjects\PytestPython\playwright\pageObjects\login.py" />
+            </list>
+          </value>
+        </entry>
+        <entry key="pageObjects/orderDetails.py Lines(1-10)">
+          <value>
+            <list>
+              <option value="PycharmProjects\PytestPython\playwright\pageObjects\orderDetails.py" />
+            </list>
+          </value>
+        </entry>
+        <entry key="pageObjects/ordersHistory.py Lines(1-13)">
+          <value>
+            <list>
+              <option value="PycharmProjects\PytestPython\playwright\pageObjects\ordersHistory.py" />
+            </list>
+          </value>
+        </entry>
+        <entry key="playwright/conftest.py Lines(1-33)">
+          <value>
+            <list>
+              <option value="PycharmProjects\PytestPython\playwright\conftest.py" />
+            </list>
+          </value>
+        </entry>
+        <entry key="playwright/test_MoreValidations.py Lines(1-83)">
+          <value>
+            <list>
+              <option value="PycharmProjects\PytestPython\playwright\test_MoreValidations.py" />
+            </list>
+          </value>
+        </entry>
+        <entry key="playwright/test_Network1.py Lines(1-24)">
+          <value>
+            <list>
+              <option value="PycharmProjects\PytestPython\playwright\test_Network1.py" />
+            </list>
+          </value>
+        </entry>
+        <entry key="playwright/test_Network2.py Lines(1-49)">
+          <value>
+            <list>
+              <option value="PycharmProjects\PytestPython\playwright\test_Network2.py" />
+            </list>
+          </value>
+        </entry>
+        <entry key="playwright/test_UIValidations_1.py Lines(1-47)">
+          <value>
+            <list>
+              <option value="PycharmProjects\PytestPython\playwright\test_UIValidations_1.py" />
+            </list>
+          </value>
+        </entry>
+        <entry key="playwright/test_framework_web_api.py Lines(1-34)">
+          <value>
+            <list>
+              <option value="PycharmProjects\PytestPython\playwright\test_framework_web_api.py" />
+            </list>
+          </value>
+        </entry>
+        <entry key="playwright/test_framework_web_api.py Lines(1-35)">
+          <value>
+            <list>
+              <option value="PycharmProjects\PytestPython\playwright\test_framework_web_api.py" />
+              <option value="PycharmProjects\PytestPython\playwright\test_framework_web_api.py" />
+              <option value="PycharmProjects\PytestPython\playwright\test_framework_web_api.py" />
+            </list>
+          </value>
+        </entry>
+        <entry key="playwright/test_playwrightBasics.py Lines(1-58)">
+          <value>
+            <list>
+              <option value="PycharmProjects\PytestPython\playwright\test_playwrightBasics.py" />
+            </list>
+          </value>
+        </entry>
+        <entry key="playwright/test_pytest-bddTest.py Lines(1-58)">
+          <value>
+            <list>
+              <option value="PycharmProjects\PytestPython\playwright\test_pytest-bddTest.py" />
+              <option value="PycharmProjects\PytestPython\playwright\test_pytest-bddTest.py" />
+            </list>
+          </value>
+        </entry>
+        <entry key="playwright/test_web_api.py Lines(1-29)">
+          <value>
+            <list>
+              <option value="PycharmProjects\PytestPython\playwright\test_web_api.py" />
+            </list>
+          </value>
+        </entry>
+        <entry key="utils/apiBase.py Lines(1-29)">
+          <value>
+            <list>
+              <option value="PycharmProjects\PytestPython\playwright\utils\apiBase.py" />
+            </list>
+          </value>
+        </entry>
+        <entry key="utils/apiBaseFramework.py Lines(1-37)">
+          <value>
+            <list>
+              <option value="PycharmProjects\PytestPython\playwright\utils\apiBaseFramework.py" />
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

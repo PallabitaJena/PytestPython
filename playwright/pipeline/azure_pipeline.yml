@@ -1,0 +1,49 @@
+trigger:
+- main
+
+pool:
+  vmImage: 'ubuntu-latest'
+
+steps:
+# Step 1 - Install Python dependencies
+- task: UsePythonVersion@0
+  inputs:
+    versionSpec: '3.x'
+
+- script: |
+    pip install -r requirements.txt
+    pip install allure-pytest
+  displayName: 'Install Dependencies'
+
+# Step 2 - Install Allure CLI
+- script: |
+    sudo apt-get install -y default-jre
+    wget https://github.com/allure-framework/allure2/releases/download/2.27.0/allure-2.27.0.tgz
+    tar -zxvf allure-2.27.0.tgz
+    sudo mv allure-2.27.0 /opt/allure
+    sudo ln -s /opt/allure/bin/allure /usr/bin/allure
+  displayName: 'Install Allure CLI'
+
+# Step 3 - Run Pytest
+- script: |
+    pytest --alluredir=allure-results
+  displayName: 'Run Tests'
+
+# Step 4 - Generate Allure Report
+- script: |
+    allure generate allure-results --clean -o allure-report
+  displayName: 'Generate Allure Report'
+
+# Step 5 - Publish Allure Report as Artifact
+- task: PublishBuildArtifacts@1
+  inputs:
+    PathtoPublish: 'allure-report'
+    ArtifactName: 'Allure Report'
+  displayName: 'Publish Allure Report'
+
+# Step 6 - Publish JUnit Results (for Azure Test Plans)
+- task: PublishTestResults@2
+  inputs:
+    testResultsFormat: 'JUnit'
+    testResultsFiles: '**/junit.xml'
+  displayName: 'Publish Test Results'
