@@ -1,3 +1,4 @@
+import allure
 import pytest
 from pytest_bdd import given, when, then, parsers, scenarios
 
@@ -19,6 +20,7 @@ def place_item_order(playwright, username, password, shared_data):
     user_credentials["userPassword"] = password
     api_utils = APIUtils()
     orderId = api_utils.createOrder(playwright, user_credentials)
+    allure.step("Item is being placed order")
     shared_data['order_id'] = orderId
 
 

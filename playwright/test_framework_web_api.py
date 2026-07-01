@@ -15,6 +15,12 @@ with open('data/credentials.json') as f:
     print(test_data)
     user_credentials_list = test_data['user_credentials']
 
+@allure.story("failure-demo")
+def test_example_failure(page):
+    page.goto("https://example.com")
+    # This assertion will fail to demonstrate attachments
+    assert "This text does not exist" in page.content()
+
 
 @pytest.mark.smoke
 @pytest.mark.parametrize('user_credentials', user_credentials_list)

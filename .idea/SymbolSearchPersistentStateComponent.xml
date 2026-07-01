@@ -10642,8 +10642,8 @@
             <FileEntry>
               <option name="meta">
                 <FileMeta>
-                  <option name="timeStamp" value="1782913829865" />
-                  <option name="hash" value="1346732147" />
+                  <option name="timeStamp" value="1782930247875" />
+                  <option name="hash" value="394924963" />
                 </FileMeta>
               </option>
               <option name="records">
@@ -10652,8 +10652,8 @@
                     <option name="name" value="pytest_addoption" />
                     <option name="kind" value="FUNCTION" />
                     <option name="filePath" value="$PROJECT_DIR$/playwright/conftest.py" />
-                    <option name="startLine" value="6" />
-                    <option name="endLine" value="12" />
+                    <option name="startLine" value="8" />
+                    <option name="endLine" value="14" />
                     <option name="endCharacter" value="5" />
                     <option name="language" value="py" />
                   </SymbolRecordBean>
@@ -10661,8 +10661,8 @@
                     <option name="name" value="user_credentials" />
                     <option name="kind" value="FUNCTION" />
                     <option name="filePath" value="$PROJECT_DIR$/playwright/conftest.py" />
-                    <option name="startLine" value="16" />
-                    <option name="endLine" value="17" />
+                    <option name="startLine" value="18" />
+                    <option name="endLine" value="19" />
                     <option name="endCharacter" value="24" />
                     <option name="language" value="py" />
                   </SymbolRecordBean>
@@ -10670,18 +10670,27 @@
                     <option name="name" value="browserInstance" />
                     <option name="kind" value="FUNCTION" />
                     <option name="filePath" value="$PROJECT_DIR$/playwright/conftest.py" />
-                    <option name="startLine" value="21" />
-                    <option name="endLine" value="34" />
+                    <option name="startLine" value="23" />
+                    <option name="endLine" value="36" />
                     <option name="endCharacter" value="19" />
+                    <option name="language" value="py" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="pytest_configure" />
+                    <option name="kind" value="FUNCTION" />
+                    <option name="filePath" value="$PROJECT_DIR$/playwright/conftest.py" />
+                    <option name="startLine" value="43" />
+                    <option name="endLine" value="61" />
+                    <option name="endCharacter" value="12" />
                     <option name="language" value="py" />
                   </SymbolRecordBean>
                   <SymbolRecordBean>
                     <option name="name" value="pytest_runtest_makereport" />
                     <option name="kind" value="FUNCTION" />
                     <option name="filePath" value="$PROJECT_DIR$/playwright/conftest.py" />
-                    <option name="startLine" value="40" />
-                    <option name="endLine" value="52" />
-                    <option name="endCharacter" value="13" />
+                    <option name="startLine" value="64" />
+                    <option name="endLine" value="95" />
+                    <option name="endCharacter" value="20" />
                     <option name="language" value="py" />
                   </SymbolRecordBean>
                 </list>
@@ -10842,18 +10851,27 @@
             <FileEntry>
               <option name="meta">
                 <FileMeta>
-                  <option name="timeStamp" value="1782920058640" />
-                  <option name="hash" value="954136003" />
+                  <option name="timeStamp" value="1782930401681" />
+                  <option name="hash" value="1180138586" />
                 </FileMeta>
               </option>
               <option name="records">
                 <list>
                   <SymbolRecordBean>
+                    <option name="name" value="test_example_failure" />
+                    <option name="kind" value="FUNCTION" />
+                    <option name="filePath" value="$PROJECT_DIR$/playwright/test_framework_web_api.py" />
+                    <option name="startLine" value="19" />
+                    <option name="endLine" value="22" />
+                    <option name="endCharacter" value="55" />
+                    <option name="language" value="py" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
                     <option name="name" value="test_e2e_web_api" />
                     <option name="kind" value="FUNCTION" />
                     <option name="filePath" value="$PROJECT_DIR$/playwright/test_framework_web_api.py" />
-                    <option name="startLine" value="21" />
-                    <option name="endLine" value="35" />
+                    <option name="startLine" value="27" />
+                    <option name="endLine" value="41" />
                     <option name="endCharacter" value="42" />
                     <option name="language" value="py" />
                   </SymbolRecordBean>
@@ -10907,6 +10925,85 @@
                     <option name="startLine" value="29" />
                     <option name="endLine" value="39" />
                     <option name="endCharacter" value="76" />
+                    <option name="language" value="py" />
+                  </SymbolRecordBean>
+                </list>
+              </option>
+            </FileEntry>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/playwright/test_pytest-bddTest.py">
+          <value>
+            <FileEntry>
+              <option name="meta">
+                <FileMeta>
+                  <option name="timeStamp" value="1782930440341" />
+                  <option name="hash" value="219181228" />
+                </FileMeta>
+              </option>
+              <option name="records">
+                <list>
+                  <SymbolRecordBean>
+                    <option name="name" value="shared_data" />
+                    <option name="kind" value="FUNCTION" />
+                    <option name="filePath" value="$PROJECT_DIR$/playwright/test_pytest-bddTest.py" />
+                    <option name="startLine" value="12" />
+                    <option name="endLine" value="13" />
+                    <option name="endCharacter" value="13" />
+                    <option name="language" value="py" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="place_item_order" />
+                    <option name="kind" value="FUNCTION" />
+                    <option name="filePath" value="$PROJECT_DIR$/playwright/test_pytest-bddTest.py" />
+                    <option name="startLine" value="17" />
+                    <option name="endLine" value="24" />
+                    <option name="endCharacter" value="37" />
+                    <option name="language" value="py" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="user_on_landing_page" />
+                    <option name="kind" value="FUNCTION" />
+                    <option name="filePath" value="$PROJECT_DIR$/playwright/test_pytest-bddTest.py" />
+                    <option name="startLine" value="28" />
+                    <option name="endLine" value="31" />
+                    <option name="endCharacter" value="41" />
+                    <option name="language" value="py" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="login_to_portal" />
+                    <option name="kind" value="FUNCTION" />
+                    <option name="filePath" value="$PROJECT_DIR$/playwright/test_pytest-bddTest.py" />
+                    <option name="startLine" value="35" />
+                    <option name="endLine" value="38" />
+                    <option name="endCharacter" value="49" />
+                    <option name="language" value="py" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="navigate_to_orders_page" />
+                    <option name="kind" value="FUNCTION" />
+                    <option name="filePath" value="$PROJECT_DIR$/playwright/test_pytest-bddTest.py" />
+                    <option name="startLine" value="42" />
+                    <option name="endLine" value="45" />
+                    <option name="endCharacter" value="55" />
+                    <option name="language" value="py" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="select_order_id" />
+                    <option name="kind" value="FUNCTION" />
+                    <option name="filePath" value="$PROJECT_DIR$/playwright/test_pytest-bddTest.py" />
+                    <option name="startLine" value="49" />
+                    <option name="endLine" value="53" />
+                    <option name="endCharacter" value="56" />
+                    <option name="language" value="py" />
+                  </SymbolRecordBean>
+                  <SymbolRecordBean>
+                    <option name="name" value="order_message_successfully_displayed" />
+                    <option name="kind" value="FUNCTION" />
+                    <option name="filePath" value="$PROJECT_DIR$/playwright/test_pytest-bddTest.py" />
+                    <option name="startLine" value="57" />
+                    <option name="endLine" value="59" />
+                    <option name="endCharacter" value="42" />
                     <option name="language" value="py" />
                   </SymbolRecordBean>
                 </list>

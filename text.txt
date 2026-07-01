@@ -3,3 +3,8 @@ iioijh
 gydsh
 yug
 abc
+
+allure serve allure-results
+
+To get folder for allure report->
+allure generate allure-results -o allure-report --clean
