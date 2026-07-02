@@ -15,10 +15,10 @@ file.close()
 #read the file and store all the lines in list
 #reverese the list
 #write back on text.txt
-with open('text.txt','r') as reader:
+with open('text.txt', 'r') as reader:
     content = reader.readlines()
     reversed(content)
-    with open('text.txt','w') as writer:
+    with open('text.txt', 'w') as writer:
         for line in reversed(content):
          writer.write(line)
 

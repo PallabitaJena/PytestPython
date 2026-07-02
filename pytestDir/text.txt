@@ -1,0 +1,38 @@
+bdhvudghj
+iioijh
+gydsh
+yug
+abc
+
+allure serve allure-results
+
+To get folder for allure report->
+allure generate allure-results -o allure-report --clean
+Run all BDD scenarios:
+
+    pytest --alluredir=allure-results -q
+
+Run a single feature:
+
+    pytest tests/features/auth/login.feature -q
+
+Run a single scenario:
+
+    pytest tests/features/auth/login.feature::ScenarioName -q (Pytest-bdd supports running scenario by nodeid; use pytest -k or inspect ids in test collection)
+
+
+
+
+Create virtualenv & install: python -m venv .venv source .venv/bin/activate pip install -r requirements.txt python -m playwright install
+
+Run tests and produce results: pytest --alluredir=allure-results -q
+
+Confirm attachments exist: ls -la allure-results
+
+    You should see result json files and any attachments (.png, .html) referenced.
+
+Generate and view report: allure generate allure-results -o allure-report --clean open allure-report/index.html
+
+    Click a failing test to view attachments in the test details (attachments are not on the index page).
+
+

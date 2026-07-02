@@ -10,10 +10,10 @@
                 <ContextualSearchConfigurations>
                   <option name="accounts">
                     <map>
-                      <entry key="Select account">
+                      <entry key="Select Account">
                         <value>
                           <Account>
-                            <option name="name" value="Select account" />
+                            <option name="name" value="Select Account" />
                           </Account>
                         </value>
                       </entry>

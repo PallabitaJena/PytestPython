@@ -1,12 +1,15 @@
+import sys
+import os
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '../../..')))
+
 import allure
 import pytest
 from pytest_bdd import given, when, then, parsers, scenarios
+from tests.utils.apiBaseFramework import APIUtils
+from tests.page_objects.login import LoginPage
 
-from pageObjects.login import LoginPage
-from utils.apiBaseFramework import APIUtils
-
-
-scenarios('features/orderTransaction.feature')
+pytestmark = pytest.mark.smoke
+scenarios('../orderTransaction.feature')
 
 @pytest.fixture
 def shared_data():

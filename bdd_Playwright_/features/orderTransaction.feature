@@ -1,7 +1,8 @@
+@smoke
 Feature: Order Transaction
     Tests related to Order Transactions
 
-
+@smoke
   Scenario Outline: Verify Order success message shown in details page
     Given place the item order with <username> and <password>
     And the user is on landing page
@@ -10,7 +11,7 @@ Feature: Order Transaction
     And select the orderId
     Then order message is successfully displayed
     Examples:
-      | username                | password    |
-      | rahulshetty@gmail.com   | Iamking@000 |
+      | username             | password   |
+      | fegre8h09t@gmail.com | hello123Q@ |
 
 

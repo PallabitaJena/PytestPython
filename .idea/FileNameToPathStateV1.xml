@@ -3,6 +3,22 @@
   <component name="FileNameToPathState">
     <option name="fileNameToPathMap">
       <map>
+        <entry key="PytestPython/pytest.ini Lines(1-9)">
+          <value>
+            <list>
+              <option value="PycharmProjects\PytestPython\pytest.ini" />
+              <option value="PycharmProjects\PytestPython\pytest.ini" />
+            </list>
+          </value>
+        </entry>
+        <entry key="PytestPython/pytest.ini Lines(5-8)">
+          <value>
+            <list>
+              <option value="PycharmProjects\PytestPython\pytest.ini" />
+              <option value="PycharmProjects\PytestPython\pytest.ini" />
+            </list>
+          </value>
+        </entry>
         <entry key="allure-results/00903a02-f266-4ecb-9729-804f2d20f09e-container.json Lines(1-1)">
           <value>
             <list>
@@ -497,6 +513,15 @@
           <value>
             <list>
               <option value="PycharmProjects\PytestPython\playwright\assets\style.css" />
+              <option value="PycharmProjects\PytestPython\playwright\assets\style.css" />
+              <option value="PycharmProjects\PytestPython\bdd_playwright\assets\style.css" />
+            </list>
+          </value>
+        </entry>
+        <entry key="bdd_playwright/__init__.py Lines(1-0)">
+          <value>
+            <list>
+              <option value="PycharmProjects\PytestPython\bdd_playwright\__init__.py" />
             </list>
           </value>
         </entry>
@@ -504,12 +529,87 @@
           <value>
             <list>
               <option value="PycharmProjects\PytestPython\playwright\data\credentials.json" />
+              <option value="PycharmProjects\PytestPython\playwright\data\credentials.json" />
+              <option value="PycharmProjects\PytestPython\data\credentials.json" />
+            </list>
+          </value>
+        </entry>
+        <entry key="e2e/test_MoreValidations.py Lines(1-83)">
+          <value>
+            <list>
+              <option value="PycharmProjects\PytestPython\tests\e2e\test_MoreValidations.py" />
+            </list>
+          </value>
+        </entry>
+        <entry key="e2e/test_Network1.py Lines(1-24)">
+          <value>
+            <list>
+              <option value="PycharmProjects\PytestPython\tests\e2e\test_Network1.py" />
+            </list>
+          </value>
+        </entry>
+        <entry key="e2e/test_Network2.py Lines(1-49)">
+          <value>
+            <list>
+              <option value="PycharmProjects\PytestPython\tests\e2e\test_Network2.py" />
+            </list>
+          </value>
+        </entry>
+        <entry key="e2e/test_UIValidations_1.py Lines(1-47)">
+          <value>
+            <list>
+              <option value="PycharmProjects\PytestPython\tests\e2e\test_UIValidations_1.py" />
+            </list>
+          </value>
+        </entry>
+        <entry key="e2e/test_playwrightBasics.py Lines(1-39)">
+          <value>
+            <list>
+              <option value="PycharmProjects\PytestPython\tests\e2e\test_playwrightBasics.py" />
+            </list>
+          </value>
+        </entry>
+        <entry key="e2e/test_web_api.py Lines(1-29)">
+          <value>
+            <list>
+              <option value="PycharmProjects\PytestPython\tests\e2e\test_web_api.py" />
+            </list>
+          </value>
+        </entry>
+        <entry key="e2e/test_web_api.py Lines(1-30)">
+          <value>
+            <list>
+              <option value="PycharmProjects\PytestPython\tests\e2e\test_web_api.py" />
+            </list>
+          </value>
+        </entry>
+        <entry key="integration/test_framework_web_api.py Lines(1-42)">
+          <value>
+            <list>
+              <option value="PycharmProjects\PytestPython\tests\integration\test_framework_web_api.py" />
+              <option value="PycharmProjects\PytestPython\tests\integration\test_framework_web_api.py" />
+            </list>
+          </value>
+        </entry>
+        <entry key="integration/test_framework_web_api.py Lines(2-2)">
+          <value>
+            <list>
+              <option value="PycharmProjects\PytestPython\tests\integration\test_framework_web_api.py" />
+              <option value="PycharmProjects\PytestPython\tests\integration\test_framework_web_api.py" />
+            </list>
+          </value>
+        </entry>
+        <entry key="pageObjects/_init_.py Lines(1-1)">
+          <value>
+            <list>
+              <option value="PycharmProjects\PytestPython\playwright\pageObjects\_init_.py" />
             </list>
           </value>
         </entry>
         <entry key="pageObjects/dashboard.py Lines(1-12)">
           <value>
             <list>
+              <option value="PycharmProjects\PytestPython\playwright\pageObjects\dashboard.py" />
               <option value="PycharmProjects\PytestPython\playwright\pageObjects\dashboard.py" />
             </list>
           </value>
@@ -518,12 +618,14 @@
           <value>
             <list>
               <option value="PycharmProjects\PytestPython\playwright\pageObjects\login.py" />
+              <option value="PycharmProjects\PytestPython\playwright\pageObjects\login.py" />
             </list>
           </value>
         </entry>
         <entry key="pageObjects/orderDetails.py Lines(1-10)">
           <value>
             <list>
+              <option value="PycharmProjects\PytestPython\playwright\pageObjects\orderDetails.py" />
               <option value="PycharmProjects\PytestPython\playwright\pageObjects\orderDetails.py" />
             </list>
           </value>
@@ -532,6 +634,56 @@
           <value>
             <list>
               <option value="PycharmProjects\PytestPython\playwright\pageObjects\ordersHistory.py" />
+              <option value="PycharmProjects\PytestPython\playwright\pageObjects\ordersHistory.py" />
+            </list>
+          </value>
+        </entry>
+        <entry key="page_objects/_init_.py Lines(1-1)">
+          <value>
+            <list>
+              <option value="PycharmProjects\PytestPython\tests\page_objects\_init_.py" />
+            </list>
+          </value>
+        </entry>
+        <entry key="page_objects/dashboard.py Lines(1-12)">
+          <value>
+            <list>
+              <option value="PycharmProjects\PytestPython\tests\page_objects\dashboard.py" />
+            </list>
+          </value>
+        </entry>
+        <entry key="page_objects/login.py Lines(1-18)">
+          <value>
+            <list>
+              <option value="PycharmProjects\PytestPython\tests\page_objects\login.py" />
+            </list>
+          </value>
+        </entry>
+        <entry key="page_objects/login_page.py Lines(1-20)">
+          <value>
+            <list>
+              <option value="PycharmProjects\PytestPython\tests\page_objects\login_page.py" />
+            </list>
+          </value>
+        </entry>
+        <entry key="page_objects/orderDetails.py Lines(1-10)">
+          <value>
+            <list>
+              <option value="PycharmProjects\PytestPython\tests\page_objects\orderDetails.py" />
+            </list>
+          </value>
+        </entry>
+        <entry key="page_objects/ordersHistory.py Lines(1-13)">
+          <value>
+            <list>
+              <option value="PycharmProjects\PytestPython\tests\page_objects\ordersHistory.py" />
+            </list>
+          </value>
+        </entry>
+        <entry key="playwright/_init_.py Lines(1-1)">
+          <value>
+            <list>
+              <option value="PycharmProjects\PytestPython\playwright\_init_.py" />
             </list>
           </value>
         </entry>
@@ -542,9 +694,17 @@
             </list>
           </value>
         </entry>
+        <entry key="playwright/conftest.py Lines(1-95)">
+          <value>
+            <list>
+              <option value="PycharmProjects\PytestPython\playwright\conftest.py" />
+            </list>
+          </value>
+        </entry>
         <entry key="playwright/test_MoreValidations.py Lines(1-83)">
           <value>
             <list>
+              <option value="PycharmProjects\PytestPython\playwright\test_MoreValidations.py" />
               <option value="PycharmProjects\PytestPython\playwright\test_MoreValidations.py" />
             </list>
           </value>
@@ -553,6 +713,7 @@
           <value>
             <list>
               <option value="PycharmProjects\PytestPython\playwright\test_Network1.py" />
+              <option value="PycharmProjects\PytestPython\playwright\test_Network1.py" />
             </list>
           </value>
         </entry>
@@ -560,12 +721,14 @@
           <value>
             <list>
               <option value="PycharmProjects\PytestPython\playwright\test_Network2.py" />
+              <option value="PycharmProjects\PytestPython\playwright\test_Network2.py" />
             </list>
           </value>
         </entry>
         <entry key="playwright/test_UIValidations_1.py Lines(1-47)">
           <value>
             <list>
+              <option value="PycharmProjects\PytestPython\playwright\test_UIValidations_1.py" />
               <option value="PycharmProjects\PytestPython\playwright\test_UIValidations_1.py" />
             </list>
           </value>
@@ -583,6 +746,20 @@
               <option value="PycharmProjects\PytestPython\playwright\test_framework_web_api.py" />
               <option value="PycharmProjects\PytestPython\playwright\test_framework_web_api.py" />
               <option value="PycharmProjects\PytestPython\playwright\test_framework_web_api.py" />
+            </list>
+          </value>
+        </entry>
+        <entry key="playwright/test_framework_web_api.py Lines(1-42)">
+          <value>
+            <list>
+              <option value="PycharmProjects\PytestPython\playwright\test_framework_web_api.py" />
+            </list>
+          </value>
+        </entry>
+        <entry key="playwright/test_playwrightBasics.py Lines(1-39)">
+          <value>
+            <list>
+              <option value="PycharmProjects\PytestPython\playwright\test_playwrightBasics.py" />
             </list>
           </value>
         </entry>
@@ -605,6 +782,46 @@
           <value>
             <list>
               <option value="PycharmProjects\PytestPython\playwright\test_web_api.py" />
+              <option value="PycharmProjects\PytestPython\playwright\test_web_api.py" />
+            </list>
+          </value>
+        </entry>
+        <entry key="pytestDir/text.txt Lines(1-39)">
+          <value>
+            <list>
+              <option value="PycharmProjects\PytestPython\pytestDir\text.txt" />
+            </list>
+          </value>
+        </entry>
+        <entry key="stepDefinition/test_pytest-bddTest.py Lines(1-59)">
+          <value>
+            <list>
+              <option value="PycharmProjects\PytestPython\playwright\features\stepDefinition\test_pytest-bddTest.py" />
+              <option value="PycharmProjects\PytestPython\playwright\features\stepDefinition\test_pytest-bddTest.py" />
+            </list>
+          </value>
+        </entry>
+        <entry key="stepDefinition/test_pytest-bddTest.py Lines(1-61)">
+          <value>
+            <list>
+              <option value="PycharmProjects\PytestPython\bdd_playwright\features\stepDefinition\test_pytest-bddTest.py" />
+            </list>
+          </value>
+        </entry>
+        <entry key="stepDefinition/test_pytest-bddTest.py Lines(1-63)">
+          <value>
+            <list>
+              <option value="PycharmProjects\PytestPython\playwright\features\stepDefinition\test_pytest-bddTest.py" />
+              <option value="PycharmProjects\PytestPython\playwright\features\stepDefinition\test_pytest-bddTest.py" />
+              <option value="PycharmProjects\PytestPython\playwright\features\stepDefinition\test_pytest-bddTest.py" />
+            </list>
+          </value>
+        </entry>
+        <entry key="utils/_init_.py Lines(1-1)">
+          <value>
+            <list>
+              <option value="PycharmProjects\PytestPython\playwright\utils\_init_.py" />
+              <option value="PycharmProjects\PytestPython\tests\utils\_init_.py" />
             </list>
           </value>
         </entry>
@@ -612,6 +829,8 @@
           <value>
             <list>
               <option value="PycharmProjects\PytestPython\playwright\utils\apiBase.py" />
+              <option value="PycharmProjects\PytestPython\playwright\utils\apiBase.py" />
+              <option value="PycharmProjects\PytestPython\tests\utils\apiBase.py" />
             </list>
           </value>
         </entry>
@@ -619,6 +838,8 @@
           <value>
             <list>
               <option value="PycharmProjects\PytestPython\playwright\utils\apiBaseFramework.py" />
+              <option value="PycharmProjects\PytestPython\playwright\utils\apiBaseFramework.py" />
+              <option value="PycharmProjects\PytestPython\tests\utils\apiBaseFramework.py" />
             </list>
           </value>
         </entry>
