@@ -10,7 +10,7 @@ from pageObjects.dashboard import DashboardPage
 from utils.apiBaseFramework import APIUtils
 
 # Json file -> util->access into test.
-with open('data/credentials.json') as f:
+with open('playwright/data/credentials.json') as f:
     test_data = json.load(f)
     print(test_data)
     user_credentials_list = test_data['user_credentials']
