@@ -8,8 +8,19 @@ on:
 jobs:
   test:
     runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        browser: [chromium, firefox, webkit]
     steps:
       - uses: actions/checkout@v4
+
+      - name: Cache pip
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
+          restore-keys: |
+            ${{ runner.os }}-pip-
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -27,18 +38,25 @@ jobs:
           pip install -r requirements.txt
           python -m playwright install --with-deps
 
-      - name: Install Allure CLI (npm package)
-        run: |
-          # Use a stable version; adjust if needed
-          npm install -g allure-commandline@2.20.1
-
       - name: Run tests (write Allure results)
+        env:
+          BROWSER: ${{ matrix.browser }}
+          HEADLESS: "true"
         run: |
-          pytest --alluredir=allure-results -q
+          pytest playwright -q --alluredir=allure-results -k "not skip_in_ci" -o log_cli=true
+
+      - name: Copy Allure config files (optional)
+        run: |
+          if [ -d "allure-config" ]; then
+            cp -v allure-config/* allure-results/ || true
+          fi
+
+      - name: Install Allure CLI
+        run: |
+          npm install -g allure-commandline@2.20.1
 
       - name: Generate Allure HTML report
         run: |
-          # Generate HTML from allure-results into allure-report
           allure generate allure-results -o allure-report --clean
 
       - name: Upload Allure report artifact
