@@ -1,8 +1,14 @@
 import os
 import json
 import re
+import sys
 from datetime import datetime
 from pathlib import Path
+
+# Fix encoding for Windows
+if sys.platform == "win32":
+    import io
+    sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
 
 def generate_jenkins_compatible_report(output_file="report.html"):
     """
@@ -18,13 +24,12 @@ def generate_jenkins_compatible_report(output_file="report.html"):
         "tests": []
     }
     
-    # Read from .pytest_cache or allure-results if available
+    # Read from allure-results if available
     try:
-        # Try to parse allure results
         if os.path.exists("allure-results"):
             for file in os.listdir("allure-results"):
                 if file.endswith("-result.json"):
-                    with open(f"allure-results/{file}", "r") as f:
+                    with open(f"allure-results/{file}", "r", encoding="utf-8") as f:
                         data = json.load(f)
                         test_name = data.get("name", "Unknown Test")
                         status = data.get("status", "unknown")
@@ -309,15 +314,19 @@ def generate_jenkins_compatible_report(output_file="report.html"):
 </html>
 """
     
-    # Write the HTML file
+    # Write the HTML file with UTF-8 encoding
     with open(output_file, 'w', encoding='utf-8') as f:
         f.write(html_content)
     
-    print(f"✓ Report generated successfully: {output_file}")
-    print(f"  - Total Tests: {total_tests}")
-    print(f"  - Passed: {test_results['passed']}")
-    print(f"  - Failed: {test_results['failed']}")
-    print(f"  - Skipped: {test_results['skipped']}")
+    print("Report generated successfully: " + output_file)
+    print("  - Total Tests: " + str(total_tests))
+    print("  - Passed: " + str(test_results['passed']))
+    print("  - Failed: " + str(test_results['failed']))
+    print("  - Skipped: " + str(test_results['skipped']))
 
 if __name__ == "__main__":
-    generate_jenkins_compatible_report("report.html")
+    try:
+        generate_jenkins_compatible_report("report.html")
+    except Exception as e:
+        print("ERROR: " + str(e))
+        sys.exit(1)
