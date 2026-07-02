@@ -5,22 +5,14 @@ import pytest
 import allure
 from playwright.sync_api import Playwright, expect
 
-from pageObjects.login import LoginPage
-from pageObjects.dashboard import DashboardPage
-from utils.apiBaseFramework import APIUtils
+from tests.page_objects.login import LoginPage
+from tests.utils.apiBaseFramework import APIUtils
 
 # Json file -> util->access into test.
 with open('data/credentials.json') as f:
     test_data = json.load(f)
     print(test_data)
     user_credentials_list = test_data['user_credentials']
-
-@allure.story("failure-demo")
-def test_example_failure(page):
-    page.goto("https://example.com")
-    # This assertion will fail to demonstrate attachments
-    assert "This text does not exist" in page.content()
-
 
 @pytest.mark.smoke
 @pytest.mark.parametrize('user_credentials', user_credentials_list)

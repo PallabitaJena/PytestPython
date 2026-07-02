@@ -1,0 +1,23 @@
+.venv/
+env/
+venv/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+# IDE
+.vscode/
+.idea/
+
+# Playwright/Allure artifacts
+allure-results/
+allure-report/
+videos/
+trace.zip
+
+# Node
+node_modules/

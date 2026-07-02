@@ -1,21 +1,17 @@
 import time
-
 from playwright.sync_api import Page, Playwright, expect
 
 
-def test_playwrightBasics(playwright):
-    browser = playwright.chromium.launch(headless=False)
-    context = browser.new_context()
-    page = context.new_page()
+def test_playwrightBasics(page: Page):
+    # Use the pytest-playwright 'page' fixture (fresh context per test).
     page.goto("https://rahulshettyacademy.com")
 
 
-def test_playwrightShortCut(page: Page): #Page class page fixture
+def test_playwrightShortCut(page: Page):
     page.goto("https://rahulshettyacademy.com")
 
 
-#-- #terms  .text-info  tagName
-def test_coreLocators(page:Page):
+def test_coreLocators(page: Page):
     page.goto("https://rahulshettyacademy.com/loginpagePractise/")
     page.get_by_label("Username:").fill("rahulshettyacademy")
     page.get_by_label("Password:").fill("Learning@830$3mK2")
@@ -27,8 +23,10 @@ def test_coreLocators(page:Page):
 
 
 def test_firefoxBrowser(playwright: Playwright):
-    firefoxBrowser = playwright.firefox.launch(headless=False)
-    page = firefoxBrowser.new_page()
+    # If you need to explicitly test firefox, launch it headless for CI and close it cleanly
+    firefox = playwright.firefox.launch(headless=True)
+    context = firefox.new_context()
+    page = context.new_page()
     page.goto("https://rahulshettyacademy.com/loginpagePractise/")
     page.get_by_label("Username:").fill("rahulshettyacademy")
     page.get_by_label("Password:").fill("Learning@830$3mK2")
@@ -37,22 +35,5 @@ def test_firefoxBrowser(playwright: Playwright):
     page.get_by_role("link", name="terms and conditions").click()
     page.get_by_role("button", name="Sign In").click()
     expect(page.get_by_text("Incorrect username/password.")).to_be_visible()
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    context.close()
+    firefox.close()

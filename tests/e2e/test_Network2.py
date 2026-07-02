@@ -2,7 +2,7 @@ import time
 
 from playwright.sync_api import Page, Playwright, expect
 
-from utils.apiBase import APIUtils
+from tests.utils.apiBase import APIUtils
 
 
 #-> api call from the browser-> api call contact server return back response to browser-> browser use response to generate html

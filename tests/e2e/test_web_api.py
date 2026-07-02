@@ -1,6 +1,6 @@
 from playwright.sync_api import Playwright, expect
 
-from utils.apiBase import APIUtils
+from tests.utils.apiBase import APIUtils
 
 
 def test_e2e_web_api(playwright: Playwright):
